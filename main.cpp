@@ -50,7 +50,5 @@ int main()
     emoticons->display_backward();
     languages->display_forward();
 
-
-
     return 0;
 }
